@@ -15,4 +15,4 @@ Having completed my MSBA, I'm keen to apply my expertise in data analytics, busi
 Let's connect to discuss how we can collaborate to achieve business success through data-driven innovation!
 
 📫 Reach out to me at: ianchen007007@gmail.com
-🔗 Let's connect on LinkedIn
+🔗 Let's connect on LinkedIn: https://www.linkedin.com/in/ianchenyyc/
