@@ -4,7 +4,7 @@ As a recent graduate of the Master of Science in Business Analytics program at U
 📊 Professional Focus
 Data Analytics & Visualization: Proficient in extracting and interpreting data to tell compelling stories using tools like R, SQL, Python, Tableau, and Power BI.
 Machine Learning Applications: Skilled in applying machine learning techniques to solve real-world business problems, enhancing operational efficiency and decision-making processes.
-Business Consulting & Strategy: Passionate about leveraging data insights to drive business innovation, optimize performance, and achieve competitive advantage.
+Business Consulting & Strategy: Passionate about leveraging data insights to drive business innovation, optimize performance, and achieve competitive advantage.\n
 🌟 Professional Milestones
 Impactful Leadership: Spearheaded a Generative AI initiative at Masonite, leading to a 150% increase in sales efficiency and a 50% uplift in user engagement.
 Innovative Risk Management: During my tenure at Unicorn Fintech Ltd, I played a pivotal role in devising and implementing risk management strategies that substantially mitigated financial losses and enhanced operational effectiveness.
